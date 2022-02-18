@@ -1,0 +1,170 @@
+INFO 2022/1/30下午6:17:20  launch with argv [/usr/share/typora/Typora]
+INFO 2022/1/30下午6:17:20  launchFromDiffVersion, pre version is undefined
+INFO 2022/1/30下午6:17:20  start LM in devVersion=false
+INFO 2022/1/30下午6:17:20  [Raven] instanceKey = d5980711-2987-473b-ac30-693cad0de021
+INFO 2022/1/30下午6:17:20  [watchLicense]
+INFO 2022/1/30下午6:17:20  [License] firstValidateLicense
+INFO 2022/1/30下午6:17:20  ls put SLicense
+INFO 2022/1/30下午6:17:20  [validateTrail] Read from incorrupted InstallDate
+INFO 2022/1/30下午6:17:20  writeInstallDate fromBTime=true
+INFO 2022/1/30下午6:17:20  overwriteThemeFolder
+INFO 2022/1/30下午6:17:20  ------------------start------------------
+INFO 2022/1/30下午6:17:20  typora version: 1.0.4
+INFO 2022/1/30下午6:17:20  ls put IDate
+INFO 2022/1/30下午6:17:20  [validateTrail] installDate is 1/30/2022, trail remains: 15 days
+INFO 2022/1/30下午6:17:20  [watchLicense] hasLicense: false
+INFO 2022/1/30下午6:17:20  [focus] 1
+INFO 2022/1/30下午6:17:20  [Raven] userId = 62ca7e6d-1743-4a9a-90fa-0c72adcb1a63
+INFO 2022/1/30下午6:17:20  synced recovery
+INFO 2022/1/30下午6:17:21  handle document.loadInitData
+INFO 2022/1/30下午6:17:21  [RenderProcess 1][Log] getContent
+INFO 2022/1/30下午6:17:21  synced recovery
+INFO 2022/1/30下午6:17:21  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/1/30下午6:17:21  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/1/30下午6:17:22  synced recovery
+INFO 2022/1/30下午6:17:23  synced recovery
+INFO 2022/1/30下午6:17:23  synced recovery
+INFO 2022/1/30下午6:17:24  synced recovery
+INFO 2022/1/30下午6:17:25  synced recovery
+INFO 2022/1/30下午6:17:27  synced recovery
+INFO 2022/1/30下午6:17:33  synced recovery
+INFO 2022/1/30下午6:17:33  ----------------before-quit-----------------
+INFO 2022/1/30下午6:17:33  ------------------will-quit------------------
+INFO 2022/1/30下午6:17:33  -----------------quit------------------
+INFO 2022/1/30下午6:17:33  closeLogging
+INFO 2022/1/30下午8:55:49  launch with argv [/usr/share/typora/Typora]
+INFO 2022/1/30下午8:55:49  start LM in devVersion=false
+INFO 2022/1/30下午8:55:49  [Raven] instanceKey = 1224050b-6bcd-4782-a0c8-bf4186a24d6f
+INFO 2022/1/30下午8:55:49  [watchLicense]
+INFO 2022/1/30下午8:55:49  [License] firstValidateLicense
+INFO 2022/1/30下午8:55:49  ls put SLicense
+INFO 2022/1/30下午8:55:49  [validateTrail] installDate is 1/30/2022, trail remains: 15 days
+INFO 2022/1/30下午8:55:49  [watchLicense] hasLicense: false
+INFO 2022/1/30下午8:55:49  ------------------start------------------
+INFO 2022/1/30下午8:55:49  typora version: 1.0.4
+INFO 2022/1/30下午8:55:49  [Raven] userId = 62ca7e6d-1743-4a9a-90fa-0c72adcb1a63
+INFO 2022/1/30下午8:55:49  [focus] 1
+INFO 2022/1/30下午8:55:49  synced recovery
+INFO 2022/1/30下午8:55:50  handle document.loadInitData
+INFO 2022/1/30下午8:55:50  [RenderProcess 1][Log] getContent
+INFO 2022/1/30下午8:55:50  synced recovery
+INFO 2022/1/30下午8:55:50  [RenderProcess 1][Log] onBecomeActive
+INFO 2022/1/30下午8:55:50  [RenderProcess 1][Log] File.activeWindow = true
+INFO 2022/1/30下午8:55:51  [blur] 1
+INFO 2022/1/30下午8:55:51  [win] blur
+INFO 2022/1/30下午8:55:59  [focus] 1
+INFO 2022/1/30下午8:56:00  synced recovery
+INFO 2022/1/30下午8:56:00  synced recovery
+INFO 2022/1/30下午8:56:00  synced recovery
+INFO 2022/1/30下午8:56:01  synced recovery
+INFO 2022/1/30下午8:56:01  synced recovery
+INFO 2022/1/30下午8:56:01  synced recovery
+INFO 2022/1/30下午8:56:03  synced recovery
+INFO 2022/1/30下午8:56:03  synced recovery
+INFO 2022/1/30下午8:56:04  synced recovery
+INFO 2022/1/30下午8:56:05  synced recovery
+INFO 2022/1/30下午8:56:06  synced recovery
+INFO 2022/1/30下午8:56:10  synced recovery
+INFO 2022/1/30下午8:56:12  synced recovery
+INFO 2022/1/30下午8:56:14  synced recovery
+INFO 2022/1/30下午8:56:18  synced recovery
+INFO 2022/1/30下午8:56:18  synced recovery
+INFO 2022/1/30下午8:56:19  synced recovery
+INFO 2022/1/30下午8:56:21  synced recovery
+INFO 2022/1/30下午8:56:23  [blur] 1
+INFO 2022/1/30下午8:56:23  [win] blur
+INFO 2022/1/30下午8:56:26  [focus] 1
+INFO 2022/1/30下午8:56:26  [blur] 1
+INFO 2022/1/30下午8:56:26  [win] blur
+INFO 2022/1/30下午8:56:27  [focus] 1
+INFO 2022/1/30下午8:56:27  [blur] 1
+INFO 2022/1/30下午8:56:27  [win] blur
+INFO 2022/1/30下午8:56:30  [focus] 1
+INFO 2022/1/30下午8:56:30  synced recovery
+INFO 2022/1/30下午8:56:34  [blur] 1
+INFO 2022/1/30下午8:56:34  [win] blur
+INFO 2022/1/30下午8:56:36  [focus] 1
+INFO 2022/1/30下午8:56:38  [blur] 1
+INFO 2022/1/30下午8:56:38  [win] blur
+INFO 2022/1/30下午8:56:45  [focus] 1
+INFO 2022/1/30下午8:56:46  [blur] 1
+INFO 2022/1/30下午8:56:46  [win] blur
+INFO 2022/1/30下午8:56:47  [focus] 1
+INFO 2022/1/30下午8:56:47  [blur] 1
+INFO 2022/1/30下午8:56:47  [win] blur
+INFO 2022/1/30下午8:56:48  [focus] 1
+INFO 2022/1/30下午8:56:48  [blur] 1
+INFO 2022/1/30下午8:56:48  [win] blur
+INFO 2022/1/30下午8:56:48  [focus] 1
+INFO 2022/1/30下午8:56:48  [blur] 1
+INFO 2022/1/30下午8:56:48  [win] blur
+INFO 2022/1/30下午8:56:49  [focus] 1
+INFO 2022/1/30下午8:56:49  [blur] 1
+INFO 2022/1/30下午8:56:49  [win] blur
+INFO 2022/1/30下午8:56:49  [focus] 1
+INFO 2022/1/30下午8:56:49  [blur] 1
+INFO 2022/1/30下午8:56:49  [win] blur
+INFO 2022/1/30下午8:56:49  [focus] 1
+INFO 2022/1/30下午8:56:49  [blur] 1
+INFO 2022/1/30下午8:56:49  [win] blur
+INFO 2022/1/30下午8:56:49  [focus] 1
+INFO 2022/1/30下午8:56:49  [blur] 1
+INFO 2022/1/30下午8:56:49  [win] blur
+INFO 2022/1/30下午8:56:49  [focus] 1
+INFO 2022/1/30下午8:56:59  [blur] 1
+INFO 2022/1/30下午8:56:59  [win] blur
+INFO 2022/1/30下午8:57:13  [focus] 1
+INFO 2022/1/30下午8:57:14  [blur] 1
+INFO 2022/1/30下午8:57:14  [win] blur
+INFO 2022/1/30下午8:57:15  [focus] 1
+INFO 2022/1/30下午8:57:17  synced recovery
+INFO 2022/1/30下午8:57:28  synced recovery
+INFO 2022/1/30下午8:57:30  synced recovery
+INFO 2022/1/30下午8:57:32  synced recovery
+INFO 2022/1/30下午8:57:35  synced recovery
+INFO 2022/1/30下午8:57:35  [blur] 1
+INFO 2022/1/30下午8:57:35  [win] blur
+INFO 2022/1/30下午8:57:36  [focus] 1
+INFO 2022/1/30下午8:57:40  synced recovery
+INFO 2022/1/30下午8:57:44  synced recovery
+INFO 2022/1/30下午8:57:47  synced recovery
+INFO 2022/1/30下午8:57:48  synced recovery
+INFO 2022/1/30下午8:57:52  synced recovery
+INFO 2022/1/30下午8:57:56  [blur] 1
+INFO 2022/1/30下午8:57:56  [win] blur
+INFO 2022/1/30下午8:58:24  [focus] 1
+INFO 2022/1/30下午8:58:25  [blur] 1
+INFO 2022/1/30下午8:58:25  [win] blur
+INFO 2022/1/30下午8:58:25  [focus] 1
+INFO 2022/1/30下午8:58:26  [blur] 1
+INFO 2022/1/30下午8:58:26  [win] blur
+INFO 2022/1/30下午8:58:28  [focus] 1
+INFO 2022/1/30下午8:58:32  [blur] 1
+INFO 2022/1/30下午8:58:32  [win] blur
+INFO 2022/1/30下午9:01:00  [focus] 1
+INFO 2022/1/30下午9:01:00  [blur] 1
+INFO 2022/1/30下午9:01:00  [win] blur
+INFO 2022/1/30下午9:01:00  [focus] 1
+INFO 2022/1/30下午9:01:00  [blur] 1
+INFO 2022/1/30下午9:01:00  [win] blur
+INFO 2022/1/30下午9:01:00  [focus] 1
+INFO 2022/1/30下午9:01:02  [blur] 1
+INFO 2022/1/30下午9:01:02  [win] blur
+INFO 2022/1/30下午9:01:41  [focus] 1
+INFO 2022/1/30下午9:01:42  [blur] 1
+INFO 2022/1/30下午9:01:42  [win] blur
+INFO 2022/1/30下午9:01:42  [focus] 1
+INFO 2022/1/30下午9:01:43  [blur] 1
+INFO 2022/1/30下午9:01:43  [win] blur
+INFO 2022/1/30下午9:01:46  [focus] 1
+INFO 2022/1/30下午9:01:46  [blur] 1
+INFO 2022/1/30下午9:01:46  [win] blur
+INFO 2022/1/30下午9:03:45  [focus] 1
+INFO 2022/1/30下午9:03:45  [blur] 1
+INFO 2022/1/30下午9:03:45  [win] blur
+INFO 2022/1/30下午9:05:44  [focus] 1
+INFO 2022/1/30下午9:05:49  synced recovery
+INFO 2022/1/30下午9:05:49  ----------------before-quit-----------------
+INFO 2022/1/30下午9:05:49  ------------------will-quit------------------
+INFO 2022/1/30下午9:05:49  -----------------quit------------------
+INFO 2022/1/30下午9:05:49  closeLogging
